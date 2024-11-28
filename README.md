@@ -1,5 +1,5 @@
+# **Hi! I am Iva Jefremova!**
 
-👋 Hi there! I’m Iva Jefremova
 💻 High School Student| SUGS "Rade Jovchevski-Korchagin"
 
 🚀 **About Me**  
