@@ -4,10 +4,10 @@
 
 
 ## Technical Toolkit
-- **Programming Languages:** C++, Python, RISC-V Assembly, SQL, MATLAB, Java.
+- **Programming Languages:** C++, Python, RISC-V Assembly, SQL, Java.
 - **AI & Data Science:** AI Agent development (LangChain, Langfuse), Machine Learning, Relational Database Design.
 - **Embedded Systems:** Firmware optimization, Hardware-in-the-Loop (HIL) simulation, Raspberry Pi, CMake, Picotool.
-- **Web Development & Design:** Full-stack development (Webflow, Supabase), Stripe integration, Figma (UX/UI).
+- **Web Development & Design:** Full-stack development (Claude Frontend, Supabase Backend), Stripe integration, Figma (UX/UI).
 - **Version Control:** Professional Git-based workflows (branching, merging, collaborative CI/CD).
 
 ## Experience
